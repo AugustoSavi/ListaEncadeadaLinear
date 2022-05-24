@@ -1,8 +1,5 @@
 # Lista Encadeada Linear
 
-# Projeto Aviões
-    Projeto proposto pelo professor Giácomo Antônio Althoff Bolan, tem como propósito, usar a matemática e a computação gráfica para proteger vidas de possíveis acidentes aéreos. 
-
 ![Badge](https://img.shields.io/github/issues/AugustoSavi/ListaEncadeadaLinear)
 ![Badge](https://img.shields.io/github/forks/AugustoSavi/ListaEncadeadaLinear)
 ![Badge](https://img.shields.io/github/stars/AugustoSavi/ListaEncadeadaLinear)
